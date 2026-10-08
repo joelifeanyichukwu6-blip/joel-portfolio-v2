@@ -1,0 +1,1 @@
+Draft portfolio site for Joel, Krackerz-style layout. Not live yet. Built from source-tplK.html and source-genK.py (the generator reads case study data from the original site generator). Remove the noindex meta tag in index.html before going live.
